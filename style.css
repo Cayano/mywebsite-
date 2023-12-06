@@ -476,7 +476,7 @@ background-color: #ff6000;
 body .footer .content {
     padding: 2rem 1rem 2rem;
     background: var(--footer-background);
-    z-index: 2;
+    z-index: 100;
     font-family: Klavika;
     font-size: 32px;
     color: #ffffff;
@@ -484,11 +484,13 @@ body .footer .content {
 }
 .follow-text{
     text-align: center;
+    z-index: 100;
     margin: auto;
 }
 
 .social-icon{
     height: 60px;
+    z-index: 100;
     width: 400px;
     margin: auto;
     margin-top: 10px;
@@ -498,6 +500,7 @@ body .footer .content {
 }
 .icon{
     height: 40px;
+    z-index: 100;
     width: 40px;
     margin: 0px 30px 10px 30px;
 }
