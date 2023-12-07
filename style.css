@@ -505,6 +505,8 @@ body .footer .content{
     z-index: 100;
     width: 40px;
     margin: 0px 30px 10px 30px;
+	display: block;
+	display: flex;
 }
 
 
