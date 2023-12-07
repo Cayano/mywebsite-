@@ -46,7 +46,7 @@ const sr = ScrollReveal({
     distance: '50px',
     duration: 1500,
     delay: 0,
-    // reset: true
+    reset: true
 });
 
 sr.reveal('.home-text, .social-media-button, .cv-button', {});
@@ -65,7 +65,7 @@ sr.reveal('.follow-text, .social-icon', { delay: 0 });
 const sr = ScrollReveal({
     origin: 'top',
     distance: '5000px',
-    duration: 1500,
+    duration: 0,
     delay: 0,
     // reset: true
 });
