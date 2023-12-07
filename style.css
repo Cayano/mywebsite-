@@ -507,7 +507,7 @@ body .footer .content {
 
     0%,
     75% {
-        width: var(--size, 8rem);
+        width: var(--size, 4rem);
         height: var(--size, 4rem);
     }
 
@@ -521,7 +521,7 @@ body .footer .content {
 
     0%,
     75% {
-        width: var(--size, 8rem);
+        width: var(--size, 4rem);
         height: var(--size, 4rem);
     }
 
