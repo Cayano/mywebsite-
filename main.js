@@ -59,4 +59,4 @@ sr.reveal('.skills-right', { delay: 0 });
 sr.reveal('.work-headline, .work-container', {});
 sr.reveal('.work-img', { interval: 0 });
 sr.reveal('.contact-headline, .contact-container', {});
-sr.reveal('.follow-text, .social-icon', { delay: 0 });
+//sr.reveal('.follow-text, .social-icon', { delay: 0 });
