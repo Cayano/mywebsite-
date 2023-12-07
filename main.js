@@ -62,7 +62,7 @@ sr.reveal('.contact-headline, .contact-container', {});
 sr.reveal('.follow-text, .social-icon', { delay: 0 });
 
 
-/*const sr = ScrollReveal({
+const sr = ScrollReveal({
     origin: 'top',
     distance: '5000px',
     duration: 0,
@@ -70,4 +70,4 @@ sr.reveal('.follow-text, .social-icon', { delay: 0 });
     // reset: true
 });
 
-sr.reveal('.follow-text, .social-icon', { delay: 0 });*/
+sr.reveal('.follow-text, .social-icon', { delay: 0 });
