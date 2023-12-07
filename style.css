@@ -486,6 +486,7 @@ body .footer .content {
     text-align: center;
     z-index: 100;
     margin: auto;
+    display: block;
 }
 
 .social-icon{
@@ -497,6 +498,7 @@ body .footer .content {
     padding: 0px;
     display: flex;
     text-align: center;
+    display: block;
 }
 .icon{
     height: 40px;
