@@ -665,6 +665,16 @@ body .footer .content {
     .skills-right{
         display: none;
     }
+    .follow-text,
+    .social-icon {
+        display: block;
+        visibility: visible;
+    }
+
+    .body1 .footer .bubbles {
+        height: auto;
+    }
+
 
 }
 
