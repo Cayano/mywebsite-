@@ -445,7 +445,7 @@ background-color: #ff6000;
 }
 
 .body1 .footer {
-    z-index: 1;
+    z-index: -10;
     --footer-background: rgb(255, 123, 0);
     display: grid;
     position: relative;
@@ -675,6 +675,7 @@ body .footer .content{
 
     .body1 .footer .bubbles {
         height: auto;
+	    width: 100%;
     }
 
 
